@@ -27,7 +27,7 @@
         
         <activity android:name="Chat" android:label="@string/app_name"> </activity>
         <activity android:name="Const" android:label="@string/app_name"> </activity>
-        <activity android:name="Cuonversation" android:label="@string/app_name"> </activity>
+        <activity android:name="Conversation" android:label="@string/app_name"> </activity>
         <activity android:name="CustomActivity" android:label="@string/app_name"> </activity>
         <activity android:name="Register" android:label="@string/app_name"> </activity>
         <activity android:name="TouchEffect" android:label="@string/app_name"> </activity>
